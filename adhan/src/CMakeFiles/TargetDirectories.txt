@@ -1,0 +1,4 @@
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/src/CMakeFiles/adhan.dir
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/src/CMakeFiles/example.dir
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/src/CMakeFiles/edit_cache.dir
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/src/CMakeFiles/rebuild_cache.dir

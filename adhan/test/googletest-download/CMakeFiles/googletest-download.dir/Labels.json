@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/CMakeFiles/googletest-download"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/CMakeFiles/googletest-download.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/CMakeFiles/googletest-download-complete.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-download"
+		],
+		"name" : "googletest-download"
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadhan.a CMakeFiles/adhan.dir/astronomical.o CMakeFiles/adhan.dir/solar_coordinates.o CMakeFiles/adhan.dir/solar_time.o CMakeFiles/adhan.dir/calculation_parameters.o CMakeFiles/adhan.dir/prayer_times.o CMakeFiles/adhan.dir/data_components.o CMakeFiles/adhan.dir/calendrical_helper.o
+/usr/bin/ranlib libadhan.a

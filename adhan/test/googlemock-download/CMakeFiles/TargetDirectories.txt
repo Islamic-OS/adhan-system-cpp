@@ -1,0 +1,3 @@
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googlemock-download/CMakeFiles/googlemock-download.dir
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googlemock-download/CMakeFiles/edit_cache.dir
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/test/googlemock-download/CMakeFiles/rebuild_cache.dir

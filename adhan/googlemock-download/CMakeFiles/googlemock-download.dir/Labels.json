@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/CMakeFiles/googlemock-download"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/CMakeFiles/googlemock-download.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/CMakeFiles/googlemock-download-complete.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-build.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-configure.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-download.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-install.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-patch.rule"
+		},
+		{
+			"file" : "/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googlemock-download/googlemock-download-prefix/src/googlemock-download-stamp/googlemock-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googlemock-download"
+		],
+		"name" : "googlemock-download"
+	}
+}

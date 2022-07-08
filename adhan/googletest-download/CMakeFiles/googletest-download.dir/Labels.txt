@@ -1,0 +1,13 @@
+# Target labels
+ googletest-download
+# Source files and their labels
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/CMakeFiles/googletest-download
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/CMakeFiles/googletest-download.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/CMakeFiles/googletest-download-complete.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch.rule
+/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule

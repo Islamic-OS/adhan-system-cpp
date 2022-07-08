@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/example.dir/example.o -o example   -L/home/the-code-heist/my_codes/adhan-system-cpp/adhan-c/Adhan/C/adhan/src  libadhan.a -lm 
