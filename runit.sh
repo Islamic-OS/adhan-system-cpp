@@ -4,5 +4,5 @@ cd ./build/
 
 make
 
-./adhan-system-cpp
+./adhan-daemon
 
